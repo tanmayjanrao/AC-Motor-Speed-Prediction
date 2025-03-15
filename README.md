@@ -14,7 +14,7 @@
 ---
 
 ## **🖥️ Motor Speed Predictor UI**  
-![Motor Speed Predictor](your-image-url)
+![Motor Speed Predictor](https://github.com/tanmayjanrao/AC-Motor-Speed-Prediction/blob/main/image.png)
 
 ---
 
