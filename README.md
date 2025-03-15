@@ -2,8 +2,6 @@
 
 ### *An AI-powered tool for predicting AC motor speed with ease!*  
 
-[![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-link.com/) 👈 **Click here to try it out!**  
-
 ---
 
 ## **📌 Business Objective**  
@@ -12,6 +10,11 @@
   * ✅ Reduce manual effort in motor speed calculations.  
   * ✅ Improve prediction accuracy with machine learning.  
   * ✅ Provide real-time speed predictions with minimal intervention.  
+
+---
+
+## **🖥️ Motor Speed Predictor UI**  
+![Motor Speed Predictor](your-image-url)
 
 ---
 
